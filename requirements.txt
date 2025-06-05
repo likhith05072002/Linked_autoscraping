@@ -1,0 +1,6 @@
+pandas
+undetected-chromedriver
+selenium
+gspread
+gspread-dataframe
+oauth2client
